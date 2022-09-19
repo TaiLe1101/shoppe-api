@@ -1,0 +1,5 @@
+.svcode
+
+node_modules/
+
+.env
